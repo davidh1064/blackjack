@@ -33,3 +33,9 @@ The game will open in your default web browser.
 - Real-time game state updates
 - Chip tracking and betting system
 - Mobile-friendly interface
+
+## Initial Page
+![image](https://github.com/user-attachments/assets/541fd5c1-dd75-4699-90a4-3c322d4b37f0)
+
+## Playing Page
+![image](https://github.com/user-attachments/assets/c9cd16e4-4d84-4aa2-9c7e-14d257a54c24)
